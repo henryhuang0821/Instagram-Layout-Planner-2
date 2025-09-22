@@ -1,0 +1,5 @@
+{
+  "name": "Instagram Layout Planner",
+  "description": "A tool to visually plan your Instagram profile grid. Upload your photos and use drag-and-drop to arrange them in a simulated Instagram profile layout.",
+  "requestFramePermissions": []
+}
